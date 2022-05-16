@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>XTextField.qml</file>
+        <file>XSwichBox.qml</file>
+        <file>resource/icon/recyclebin.svg</file>
+        <file>resource/icon/recyclebin-hovered.svg</file>
+        <file>resource/icon/windeploy.ico</file>
+    </qresource>
+</RCC>
